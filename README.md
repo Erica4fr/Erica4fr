@@ -1,7 +1,7 @@
 <h1 align="center">
+  Hola, soy Erica "Mayo" Franco
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32" alt="">
-  Hola, soy Erica "Mayo" Franco
 </h1>
 
 <p align="center">
